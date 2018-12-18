@@ -1,7 +1,1 @@
 # HoughTransformCoinDetection
-# HoughTransformCoinDetection
-# HoughTransformCoinDetection
-# HoughTransformCoinDetection
-# HoughTransformCoinDetection
-# HoughTransformCoinDetection
-# HoughTransformCoinDetection
